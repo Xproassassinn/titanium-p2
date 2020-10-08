@@ -3,6 +3,8 @@ P2 site code, people wanted this to be released for a while so I'm doing it.
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/titanium-p2)
 
+[![Run on Repl.it](https://repl.it/badge/github/Xproassassinn/titanium-p2)](https://repl.it/github/Xproassassinn/titanium-p2)
+
 # Local Alloy Proxy
 
 This site contains a local Alloy Proxy server.
